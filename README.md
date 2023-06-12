@@ -18,9 +18,7 @@
 
  <br>
 <div id="header" align="center">
- <div align="center">
-  <img src="https://utsav-katiyar.netlify.app/static/media/skills.9fb771fb.gif" width="70%" height="300"/>
-</div>
+
 </div>
 <hr>
 
